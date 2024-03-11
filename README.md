@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Manash Bandhu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/57/f3/7b/57f37b2b51d9b1e7f8ba92ced299bb7e.jpg">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/57/f3/7b/57f37b2b51d9b1e7f8ba92ced299bb7e.jpg">
+ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manash04&label=Profile%20views&color=0e75b6&style=flat" alt="manash04" /> </p>
 
